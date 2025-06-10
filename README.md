@@ -1,44 +1,74 @@
-STAT1250 – Specialised Charts Assignment
+# STAT1250 – Specialised Charts Assignment
 
-This repository contains Excel visualisations and a comprehensive statistical report completed as part of the STAT1250: Business Statistics and Insights unit at Macquarie University. It demonstrates the application of Excel-based charting techniques and statistical analysis for comparing product pricing trends in the tech market.
+This repository showcases data visualisation work and a statistical report developed for the **STAT1250: Business Statistics and Insights** unit at **Macquarie University**. It combines Excel charting techniques with statistical analysis to derive actionable insights from real-world tech pricing data.
 
-Included Files
-STAT1250 Specialised Charts Lecture Data Solved.xlsx: Complete set of chart visualisations including waterfall, map, funnel, gauge, and bubble charts.
+---
 
-a1 - Specialised Charts Lecture Notes.pptx: Lecture slides explaining how to construct and interpret specialised Excel charts.
+## Table of Contents
 
-Report.pdf: Analytical report (Part B and C) featuring descriptive statistics, hypothesis testing, and business insights.
+- [Overview](#overview)
+- [Included Files](#included-files)
+- [Topics Covered](#topics-covered)
+- [Report Summary](#report-summary)
+- [Tools Used](#tools-used)
+- [How to Use](#how-to-use)
 
-Topics Covered
-Sunburst & Treemap Charts – For hierarchical data structures
+---
 
-Waterfall Charts – Showing cumulative totals
+## Overview
 
-Map Charts – Visualising geographic data
+This project demonstrates the use of Microsoft Excel and statistical concepts to create and interpret a variety of **specialised charts**. A key deliverable includes a detailed PDF report featuring price analysis of laptops with and without touchscreen features.
 
-Funnel Charts – Conversion rate representation
+---
 
-Gauge Charts – KPI and performance tracking
+## Included Files
 
-Bubble Charts – Multi-variable comparisons
+| File Name                                | Description                                                  |
+|------------------------------------------|--------------------------------------------------------------|
+| `STAT1250 Specialised Charts Lecture Data Solved.xlsx` | Finalised Excel file with chart visualisations              |
+| `Report.pdf`                                           | Final report including statistical analysis (Part B & C)    |
 
-Box Plots & Bar Charts – Statistical comparisons
+---
 
-T-tests & Confidence Intervals – Hypothesis testing
+## Topics Covered
 
-Key Insights from Report
-Touchscreen laptops are statistically more expensive than non-touchscreen models (€350 on average).
+- Sunburst & Treemap Charts – Hierarchical data
+- Waterfall Charts – Running totals
+- Map Charts – Regional visualisation
+- Funnel Charts – Conversion tracking
+- Gauge Charts – KPI dashboards
+- Bubble Charts – Multi-variable pricing
+- Box Plots & Bar Charts – Distribution and comparison
+- T-tests & Confidence Intervals – Hypothesis testing
 
-Price variation is significantly greater among touchscreen laptops.
+---
 
-MacBook Pro was identified as the seventh most expensive laptop in the dataset.
+## Report Summary
 
-Brands like Google and Xiaomi dominate the premium market segment, while Apple and Microsoft offer budget options.
+- Touchscreen laptops are on average **€350 more expensive** than non-touchscreen models.
+- **MacBook Pro** is the **7th most expensive** device in the dataset.
+- Greater **price variability** is seen in touchscreen models.
+- Brands like **Google, Huawei, and Xiaomi** dominate the high-end range, while **Apple and Microsoft** offer lower-priced options.
+- Confidence intervals and t-tests were used to support findings with statistical rigour.
 
-Tools Used
-Microsoft Excel – Data preparation, visualisation, analysis
+---
 
-PowerPoint – Lecture content delivery
+## Tools Used
 
-PDF Report – Statistical writing and interpretation
+- **Microsoft Excel** – For data analysis and chart creation  
+- **PowerPoint** – For visual lecture content  
+- **PDF Report** – Written statistical analysis  
+- **GitHub** – Version control and portfolio showcase
 
+---
+
+## How to Use
+
+1. Clone this repository or download it as a ZIP.
+2. Open `STAT1250 Specialised Charts Lecture Data Solved.xlsx` to explore charts.
+3. Read `Report.pdf` for detailed business and statistical insights.
+4. Use this repository to understand practical data storytelling with Excel.
+
+---
+
+ _Created by Emmanuel Deng for STAT1250 at Macquarie University_
