@@ -1,21 +1,44 @@
-# STAT1250 – Laptop Retail Price Analysis
+STAT1250 – Specialised Charts Assignment
 
-This project was completed for the STAT1250: Business Statistics and Insights unit at Macquarie University.
+This repository contains Excel visualisations and a comprehensive statistical report completed as part of the STAT1250: Business Statistics and Insights unit at Macquarie University. It demonstrates the application of Excel-based charting techniques and statistical analysis for comparing product pricing trends in the tech market.
 
-## Contents
+Included Files
+STAT1250 Specialised Charts Lecture Data Solved.xlsx: Complete set of chart visualisations including waterfall, map, funnel, gauge, and bubble charts.
 
-- `stat1250-analysis.xlsx`: Contains Excel work including descriptive statistics, charts, PivotTables, and named ranges based on a laptop dataset.
-- `Assessment Instructions.pdf`: Original task instructions outlining Part A (Excel), Part B (report), and Part C (follow-up questions).
+a1 - Specialised Charts Lecture Notes.pptx: Lecture slides explaining how to construct and interpret specialised Excel charts.
 
-## Key Tasks
+Report.pdf: Analytical report (Part B and C) featuring descriptive statistics, hypothesis testing, and business insights.
 
-- Histogram and boxplot visualisation
-- Descriptive statistics: mean, median, mode, SD
-- Price comparison: touchscreen vs non-touchscreen laptops
-- PivotTable analysis using slicers and lookup
-- Final chart interpretation based on chosen variables
+Topics Covered
+Sunburst & Treemap Charts – For hierarchical data structures
 
-## Tools Used
+Waterfall Charts – Showing cumulative totals
 
-- Microsoft Excel
-- Calibri-formatted PDF report
+Map Charts – Visualising geographic data
+
+Funnel Charts – Conversion rate representation
+
+Gauge Charts – KPI and performance tracking
+
+Bubble Charts – Multi-variable comparisons
+
+Box Plots & Bar Charts – Statistical comparisons
+
+T-tests & Confidence Intervals – Hypothesis testing
+
+Key Insights from Report
+Touchscreen laptops are statistically more expensive than non-touchscreen models (€350 on average).
+
+Price variation is significantly greater among touchscreen laptops.
+
+MacBook Pro was identified as the seventh most expensive laptop in the dataset.
+
+Brands like Google and Xiaomi dominate the premium market segment, while Apple and Microsoft offer budget options.
+
+Tools Used
+Microsoft Excel – Data preparation, visualisation, analysis
+
+PowerPoint – Lecture content delivery
+
+PDF Report – Statistical writing and interpretation
+
